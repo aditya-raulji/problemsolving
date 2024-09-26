@@ -11,5 +11,5 @@ for(i=0;i<arr.length;i++){
 if(count){
     console.log(n,"is in array.")
 }else{
-    console.log(n,"is not in array.")
+    console.log(n,"is not in array.")
 }
