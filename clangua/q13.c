@@ -19,5 +19,6 @@ int main() {
     }else{
         printf("%d is not in array.",n);
     }
-        return 0;
+        
+    return 0;
 }
